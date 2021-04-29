@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.AssemblyInfo.cs
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\TestClass.exe
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\TestClass.deps.json
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\TestClass.runtimeconfig.json
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\TestClass.runtimeconfig.dev.json
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\TestClass.dll
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\ref\TestClass.dll
+C:\Users\salag\source\repos\TestClass\bin\Debug\net5.0\TestClass.pdb
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.dll
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\ref\TestClass.dll
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.pdb
+C:\Users\salag\source\repos\TestClass\obj\Debug\net5.0\TestClass.genruntimeconfig.cache
